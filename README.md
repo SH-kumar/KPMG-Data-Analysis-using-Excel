@@ -91,8 +91,6 @@ CLV = (Average Purchase Value × Purchase Frequency) × Customer Lifespan
 
 ---
 
----
-
 ## ✅ Project Solutions
 
 All task-wise Excel workbooks, cleaned datasets, and output files are available here:  
