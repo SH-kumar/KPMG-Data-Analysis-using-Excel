@@ -193,11 +193,4 @@ All task-wise Excel workbooks, cleaned datasets, and output files are available 
 
 ---
 
-## 📂 Dataset Access
-Due to GitHub file size limits, datasets are available via Google Drive:  
-👉 **[PASTE YOUR GOOGLE DRIVE LINK HERE]**
-
-
----
-
 ⭐ If you like this project, feel free to **star this repository**!
